@@ -1,1 +1,1 @@
-gcc *.c -lcurl -o a.out
+gcc *.c -lcurl -lpthread -o a.out
