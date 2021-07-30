@@ -1,6 +1,6 @@
 #include "request.h"
 
-#define website "http://gymn11.minsk.edu.by/"       //website
+#define website "http://example.com/"       //website
 
 
 
