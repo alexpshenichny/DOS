@@ -1,1 +1,1 @@
-gcc *.c -lcurl -lpthread -o a.out
+gcc *.c -lcurl -lpthread -o aly_dos
